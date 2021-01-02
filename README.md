@@ -10,4 +10,5 @@ Code was shared with over 100 students in a PhD Level Statistics and Machine Lea
 
 Course: Foundations of Graphical Models by David Blei, Columbia University, NY.
 
+The comment: 
 ![](hw2%20comment.png)
