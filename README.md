@@ -6,6 +6,8 @@ Read more about the data, model, data preparation, and practical learning during
 The code is in the jupyter notebook.
 
 # Recognition 
-Code was shared as a representative solution in a PhD Level Statistics and Machine Learning Course with over 100 students. 
+Code was shared with over 100 students in a PhD Level Statistics and Machine Learning Course as a representative solution. 
 
 Course: Foundations of Graphical Models by David Blei, Columbia University, NY.
+
+![](hw2%20comment.png)
