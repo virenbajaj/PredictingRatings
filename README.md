@@ -1,7 +1,7 @@
 # Predicting Movie Ratings with Guassian Matrix Factorization
 I implemented a gaussian matrix factorization model and used MAP estimation on the MovieLens dataset to predict the rating a user would give to an unseen movie. All algorithms were written from scratch.
 
-Read more about the data, model, data preparation, and practical learning during MAP estimation in the PDF in the repo.
+Read more about the data, model, data preparation, and practical learning during MAP estimation in 6701_HW2.pdf.
 
 The code is in the jupyter notebook.
 
